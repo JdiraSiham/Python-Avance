@@ -1,0 +1,14 @@
+#Réalisée par : JDIRA Siham 
+
+#Activité 19 question 7 :
+
+def F7():
+    n=int(input("Saisir l'ordre n de la suite Fibonacci : "))
+    x=1
+    y=1
+    for j in range (n):
+        z=x+y
+        print(f"{x}+{y}={z}")
+        x=y
+        y=z
+F7()
