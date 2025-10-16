@@ -1,6 +1,6 @@
 #Réalisée par : JDIRA Siham 
 
-#Séance 2 Activité 19:
+#Atelier 2 Activité 19:
 
 #Question 1:
 def F1 (): 
@@ -62,4 +62,5 @@ def F7():
         print(f"{x}+{y}={z}")
         x=y
         y=z
+
 F7()
