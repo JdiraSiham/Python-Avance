@@ -1,6 +1,6 @@
 #Réalisée par : JDIRA Siham 
 
-#Séance 2 Activité 16:
+#Atelier 2 Activité 16:
 
 #Question 1:
 l3=[5,6,2,7,3]
@@ -39,4 +39,5 @@ print(f"5). le nombre de multiple de 3 est : {multiples}")
 
 #Question 6:
 l3.reverse()
+
 print(f"6). la liste a l'envers : {l3}")
