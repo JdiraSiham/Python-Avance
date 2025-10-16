@@ -1,6 +1,6 @@
 #Réalisée par : JDIRA Siham 
 
-#Séance 1 Activité 3:
+#Atelier 1 Activité 3:
 
 #Question 1:
 a=float(input("saisir la valeur de a : "))
@@ -39,3 +39,4 @@ match choix :
         print("la distance en mille est : ",d,"mille")
     case _ :
         print ("choix invalide")
+
