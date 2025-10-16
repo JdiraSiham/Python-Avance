@@ -1,6 +1,6 @@
 #Réalisée par : JDIRA Siham 
 
-#Activité 19 question 7 :
+#Atelier 2 Activité 19 question 7 :
 
 def F7():
     n=int(input("Saisir l'ordre n de la suite Fibonacci : "))
