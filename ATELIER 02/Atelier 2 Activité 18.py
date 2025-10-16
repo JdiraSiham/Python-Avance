@@ -1,6 +1,6 @@
 #Réalisée par : JDIRA Siham 
 
-#Séance 2 Activité 18:
+#Atelier 2 Activité 18:
 
 machines = {
 "m1": "192.168.0.1",
@@ -32,4 +32,5 @@ x=input("6). entrez le nom d'une machine : ")
 if x in machines :
     print(f"l'adresse IP de la machine {x} est : {machines[x]}")
 else :
+
     print(f"la machine {x} n'est pas repertoiree")
